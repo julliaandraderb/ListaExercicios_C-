@@ -10,20 +10,12 @@ Praticar os conceitos básicos da linguagem C# por meio de exercícios envolvend
 
 - Entrada e saída de dados
 - Operações matemáticas
-- Operadores aritméticos
-- Troca de valores entre variáveis
 - Tabuada
-- Cálculo de médias aritmética e ponderada
+- Cálculo de médias
 - Conversão de temperaturas
-- Cálculo de salários e reajustes
-- Antecessor e sucessor
-- Operações com números inteiros
-- Cálculo de custos e despesas
-- Consumo de calorias
-- Movimento Uniformemente Variado (MUV)
-- Percentual de votos
-- Cálculo de peso ideal
-- E outros exercícios de lógica e matemática.
+- Cálculos de salários
+- Porcentagem
+- E outros exercícios de lógica.
 
 ## Arquivos
 
