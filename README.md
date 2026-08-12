@@ -32,3 +32,5 @@ Contém exercícios envolvendo estruturas de decisão e repetição.
 ### ✔ Lista Level 3
 
 Contém exercícios mais avançados utilizando funções, vetores e matrizes.
+
+Desenvolvido por **Júllia Andrade** durante o curso de Desenvolvimento de Sistemas.
